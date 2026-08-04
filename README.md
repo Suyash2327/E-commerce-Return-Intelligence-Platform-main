@@ -175,7 +175,7 @@ E-commerce-Return-Intelligence-Platform/
 
 ```bash
 # 1. Clone
-git clone https://github.com/HarshitGupta00/E-commerce-Return-Intelligence-Platform.git
+git clone https://github.com/Suyash2327/E-commerce-Return-Intelligence-Platform-main
 cd E-commerce-Return-Intelligence-Platform
 
 # 2. Install
@@ -214,5 +214,5 @@ streamlit run app.py
 ---
 
 <div align="center">
-  <sub>Built by <strong>Harshit Gupta</strong> · Bridging Data Science & Business Operations</sub>
+  <sub>Built by <strong>Suyash Rai</strong> · Bridging Data Science & Business Operations</sub>
 </div>
